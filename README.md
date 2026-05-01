@@ -24,7 +24,7 @@ Aqui estão alguns dos projetos desenvolvidos para aplicação prática e consol
   Aplicação em **React** que consome uma API externa de filmes em cartaz e gerencia estado e armazenamento de favoritos com LocalStorage.
 - 🔢 **[Gerador/Sorteador de Números](https://devlucasabreu-number-generator.netlify.app/)**
   Gerador de números aleatórios desenvolvido com Vanilla JS. Interface interativa em HTML/CSS focada na manipulação de eventos e algoritmos de randomização.
-  - 🆎 **[Gerador/Sorteador de Nomes](https://devlucasabreu-name-drawer.netlify.app/)**
+- 🆎 **[Gerador/Sorteador de Nomes](https://devlucasabreu-name-drawer.netlify.app/)**
   Gerador de sorteios de nomes interativo (HTML, CSS e JavaScript). Foco em manipulação de arrays, atualização dinâmica do DOM e animações de interface.
 - 🍕 **[Fast Food - Landing Page com Agendamento](https://lucasmiguelabreu.github.io/fast-food/)**
   Página interativa com HTML, CSS e JS, incluindo um sistema lógico de agendamento de mesas redirecionado para o WhatsApp do estabelecimento.
