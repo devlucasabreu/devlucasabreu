@@ -33,10 +33,10 @@ Aqui estão alguns dos projetos desenvolvidos para aplicação prática e consol
 
 ### ⚙️ Back-end & APIs
 
-- 🛠️ **API de Gestão para Restaurantes** ([Ver Repositório](https://github.com/devlucasabreu/NOME-DO-REPO-API))
+- 🛠️ **API de Gestão para Restaurantes** ([Ver Repositório](https://github.com/devlucasabreu/API-NestJS))
   Back-end robusto construído em **Node.js + Express** com **PostgreSQL**. Implementa autenticação segura (JWT/Bcrypt), validação de dados (Yup), upload de arquivos (Multer) e modelagem via **Sequelize**.
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [Lucas Rodrigues Abreu](https://www.linkedin.com/in/lucas-miguel-abreu)
+- **LinkedIn:** [Lucas Miguel Abreu](https://www.linkedin.com/in/lucas-miguel-abreu)
 - **E-mail:** [devlucasmiguelabreu@gmail.com](mailto:devlucasmiguelabreu@gmail.com)
