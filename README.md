@@ -112,14 +112,6 @@ Interface moderna e responsiva construída com HTML, CSS e JS, focada em semânt
 - Tecnólogo em Análise e Desenvolvimento de Sistemas — FAM, 2025
 - Formação Programador Full Stack — DevClub, 2025
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devlucasabreu&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasabreu&layout=compact&hide_border=true" />
-</p>
 
 ---
 
